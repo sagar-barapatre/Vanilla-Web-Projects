@@ -27,4 +27,12 @@ This is the main repository for all of the projects in vanilla JavaScript.
 | 20  | [Speak Number Guessing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/speak-number-guess) | [View Code](https://vanillawebprojects.com/projects/speak-number-guess/)  |
 
 
-NOTE ON PULL REQUESTS: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
+## To set up the project locally:
+
+1. Clone or fork the repo
+2. Go into the repo's folder
+3. Open index.html
+
+## Contributions
+
+This project is absolutely accepting pull requests (first-timers welcome!). Feel free to report bugs and suggest features by opening a new issue. 
