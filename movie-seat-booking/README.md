@@ -1,6 +1,7 @@
 ## Movie Seat Booking
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
+- The App is live Here - [Click Here](https://movieseatbooking-sagar-barapatre.netlify.app/)
 
 ## Project Specifications
 
