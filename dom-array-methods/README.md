@@ -1,6 +1,7 @@
 ## DOM Array Methods
 
 Project to teach high order array methods and DOM manipulation
+- The App is live here : [Click Here](https://domarraymethod-sagar-barapatre.netlify.app/)
 
 ## Project Specifications
 
