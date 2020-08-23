@@ -1,6 +1,7 @@
 ## Modal & Menu Slider
 
 Simple landing page with sliding menu and modal
+- The App is live Here - [Click Here](https://modalmenuslider-sagar-barapatre.netlify.app/)
 
 ## Project Specifications
 
