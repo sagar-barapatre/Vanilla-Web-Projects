@@ -2,6 +2,7 @@
 ## LyricsSearch App
 
 Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
+- The App is live Here - [Click Here](https://lyricssearch-sagar-barapatre.netlify.app/)
 
 ## Project Specifications
 
