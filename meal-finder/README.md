@@ -1,6 +1,7 @@
 ## Meal Finder App
 
 Search and generate random meals from the [themealdb.com](https://www.themealdb.com) API
+- The App is live Here - [Click Here](https://mealfinder-sagar-barapatre.netlify.app/)
 
 ## Project Specifications
 
