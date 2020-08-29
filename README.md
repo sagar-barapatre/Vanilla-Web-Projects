@@ -19,7 +19,7 @@ This is the main repository for all of the projects in vanilla JavaScript.
 | 12  |        [Music Player](https://github.com/sagar-barapatre/Vanilla-Web-Projects/tree/master/music-player)     | [Live Demo](https://musicplayer-sagar-barapatre.netlify.app/)  |
 | 13  |     [New Year Countdown](https://github.com/sagar-barapatre/Vanilla-Web-Projects/tree/master/new-year-countdown)    | [Live Demo](https://newyearcountdown-sagar-barapatre.netlify.app/)  |
 | 14  |        [Realaxer App](https://github.com/sagar-barapatre/Vanilla-Web-Projects/tree/master/relaxer-app)     | [Live Demo](https://relaxerapp-sagar-barapatre.netlify.app/)  |
-| 15  |      [Sortable List](https://github.com/sagar-barapatre/Vanilla-Web-Projects/tree/master/sortable-list)     | [Live Demo](https://vanillawebprojects.com/projects/sortable-list/)  |
+| 15  |      [Sortable List](https://github.com/sagar-barapatre/Vanilla-Web-Projects/tree/master/sortable-list)     | [Live Demo](https://sortable-list-sagarbarapatre.netlify.app/)  |
 
 
 
